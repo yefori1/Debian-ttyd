@@ -1,0 +1,14 @@
+{
+  "name": "Debian With ttyd",
+  "description": "Deploy Debian to Heroku.",
+  "keywords": ["Debian", "Docker"],
+  "env": {
+    "APPNAME": {
+       "description": "Should be same as your app name",
+       "value": ""
+    }
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
